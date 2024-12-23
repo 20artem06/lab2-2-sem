@@ -1,6 +1,6 @@
 #pragma once
 #include <functional>
-//#include<MutableSequence.h>
+#include<MutableSequence.h>
 
 template <typename T>
 class Isorted {
